@@ -8,13 +8,13 @@ Dynamic Hand Gesture Recognition such as.
 
 2. Detect Left Hand.
 
-3. Move Right ( Move the left hand from the left side to the right of the body).
+3. Move Right ( Move the left hand from the left side to the right side of the body).
 
-4. Move Left( Move the right hand from the right side to the left of the body).
+4. Move Left( Move the right hand from the right side to the left side of the body).
 
 5. Move both hand ( Move left and Move right).
 
-6. Move Up (Move The right hand from the bottom to the top).
+6. Move Up (move right hand from bottom to top).
 
 7. Detect Right hand and Move Right.
 
